@@ -1,5 +1,4 @@
-# DeepTissueSono
-# Breaking the Barriers of Ultrasound: Imaging Beyond Bones  
+# DeepTissueSono:Breaking the Barriers of Ultrasound: Imaging Beyond Bones  
 
 ## 🚀 Project Vision  
 Imagine a world where ultrasound imaging isn't limited by bones—where we can see beyond the barriers of acoustic impedance and unlock new diagnostic possibilities. This project challenges the traditional acoustic impedance law, paving the way for groundbreaking advancements in medical imaging.  
